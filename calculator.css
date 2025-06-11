@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+button{
+  background-color: rgb(46, 46, 46);
+  color: white;
+  border-radius: 50px;
+  border: none;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  font-size: 20px;
+}
+.special{
+  background-color: orange;
+}
+.clear{
+  width: 70px;
+}
+.delete{
+  width: 70px;
+}
+.answer{
+  font-size: 40px;
+}
+
+
